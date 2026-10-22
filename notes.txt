@@ -1,0 +1,4 @@
+Git is a version control system.
+A repository stores the full history of a project.
+A commit is a snapshot of the project at one point in time.
+A branch lets me work on a feature without touching main.
